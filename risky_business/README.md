@@ -28,7 +28,7 @@ JupyterLab - [Install JupyterLab](https://jupyterlab.readthedocs.io/en/stable/ge
 We can see here the classes are very imbalanced:
 ![imbalanced_classes](Resources/Images/imbalanced_classes.png)
 
-Here is an example of the ClusterCentroid algorithm balancing the classes by Undersampling:
+Here is an example of the ClusterCentroid algorithm balancing the classes with Undersampling:
 ![balanced_classes](Resources/Images/balanced_classes.png)
 
 ---
